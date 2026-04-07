@@ -1,7 +1,7 @@
 $(function() {
     $('.mainimg-tate').vegas({
         slides: [
-            { src: './images/tate_1.jpg' },	//1枚目の写真指定
+            { src: './IMG_5032.jpeg' },	//1枚目の写真指定
             { src: './images/tate_2.jpg' },	//2枚目の写真指定
             { src: './images/tate_3.jpg' },	//3枚目の写真指定
         ],
@@ -17,7 +17,7 @@ $(function() {
 $(function() {
     $('.mainimg-yoko').vegas({
         slides: [
-            { src: './images/yoko_1.jpg' },	//1枚目の写真指定
+            { src: './IMG_5032.jpeg' },	//1枚目の写真指定
             { src: './images/yoko_2.jpg' },	//2枚目の写真指定
             { src: './images/yoko_3.jpg' },	//3枚目の写真指定
         ],
